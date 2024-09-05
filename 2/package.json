@@ -1,0 +1,15 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-operation.js",
+  "scripts": {
+    "start": "node file-operation.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
